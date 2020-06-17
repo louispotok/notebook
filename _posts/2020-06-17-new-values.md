@@ -1,4 +1,6 @@
-# Trying on new values
+---
+title: Trying on new values
+---
 
 Agnes Callard, [Aspiration](https://amzn.to/3enngmN):
 
