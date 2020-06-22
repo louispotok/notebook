@@ -4,7 +4,7 @@ In 1806 there are still pockets of magicians all over Britain. They don't *pract
 
 Thus opens [Jonathan Strange and Mr. Norrell](https://amzn.to/3enV17b) by Susanna Clarke, thereby completely inverting the usual mood we associate with the period. 
 
-19th Century Britain is dynamic, powerful, inventive, resourceful. It is the beating heart of the industrial revolution, the beginning of the flywheel leading to 2 centuries of unprecedented economic growth and improvement in human well-being. The entire field of economic history is centers on the question of why the Industrial Revolution happened where and when it did because these scholars consider it among the most important events in history.
+19th Century Britain is dynamic, powerful, inventive, resourceful. It is the beating heart of the industrial revolution, the beginning of the flywheel leading to 2 centuries of unprecedented economic growth and improvement in human well-being. The entire field of economic history centers on the question of why the Industrial Revolution happened where and when it did because these scholars consider it among the most important events in history.
 
 Clarke instead depicts an era in decline. There are no more fundamental advances in the magical realm. A little juice remains to be squeezed, but not much and even that is treated as a sort of curiosity. A time when people are so enamoured with social advancement and consumer trinkets that they neglect the source of their civilization's power. An era, in short, much like our own.
 
