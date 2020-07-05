@@ -1,6 +1,6 @@
 > Many things helplessly produce their own opposites.
 > 
-> Perkus Tooth, in Jonathan Lethem's [Chronic City](https://amzn.to/31N3kWI)
+> -- Perkus Tooth, in Jonathan Lethem's [Chronic City](https://amzn.to/31N3kWI)
 
 This is a throwaway line in the novel but I think it contains a deep truth.
 
