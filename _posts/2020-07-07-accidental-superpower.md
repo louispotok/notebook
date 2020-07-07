@@ -21,16 +21,15 @@ This leads to a conclusion that the United States is geographically blessed far 
 
 The importance of rivers feels like an anachronism but he backs it up with some interesting statistics:
 > The U.S. interstate highway system, for example, responsible for “only” one-quarter of the United States’ road traffic by miles driven, has an annual maintenance cost of $160 billion. By contrast, the Army Corps of Engineers’ 2014 budget for all U.S. waterways maintenance is only $2.7 billion, while the oceans are flat-out free.
+
 > Modern container ships can transport goods for about net 17 cents per container-mile, compared to semi-trailer trucks that do it for net $2.40, including the cost of the locomotion mode as well as operating costs in both instances. But even this incredible disparity in cost assumes access to an American-style multilane highway, the sort that simply doesn’t exist in some 95 percent of the planet. It also assumes that the road cargo is all transported by semi rather than less efficient vehicles, like those UPS trucks that probably brought you this book. It certainly ignores your family car. It also does not consider the cost and maintenance of the medium of transport itself.
+
 > the practical ratio of road to water transport inflates to anywhere from 40:1 in populated flatlands to in excess of 70:1 in sparsely populated highlands.
 
 We think of railroads and highways as being such a major technological advance, but this seems to not be true. I am also reminded of Fogel's [work on railroads](https://review.chicagobooth.edu/magazine/fall-2013/what-if-railroads) which demonstrated that in the absence of railroad technology being developed, the US would have built a few more canals and had basically the same amount of economic growth.
 
 On the superiority of our river system:
 > Collectively, all of America’s temperate-zone rivers are 14,650 miles long. China and Germany each have about 2,000 miles, France about 1,000. The entirety of the Arab world has but 120.
-
-And our ports:
-> The Americans benefit from a geographic feature that exists in few other places on the planet, and nowhere else in such useful arrangements: barrier islands. Chains of these low, flat, long islands parallel the American mainland for over three-quarters of the Gulf and East Coasts.
 
 ## Main Argument
 
@@ -63,6 +62,7 @@ __US Decline__
 This is a startling passage to read. I am so used to seeing predictions of US decline. There are many indicators to point to, though I won't do that here (another day?). Zeihan simply asserts that our geographic advantages will wipe these away. I think a more detailed analysis will be necessary for me to be convinced.
 
 __Complexity and contingency__
+
 Zeihan treats historical outcomes as more-or-less deterministic, in the long run. He leaves no room for luck or path-dependence. The geography doesn't change, even in the very long-run, and the demographics are extremely predictable on the span of decades. 
 
 The only room he leaves for being wrong is if a new technological advance meaningfully changes the importance of specific geographic factors. For example, if he were writing in the year 1300, the balance of transport argument would have held up, but he would have not been able to predict that deepwater navigation would happen, or the specific geographic factors that would enable it -- and therefore which countries would benefit.
@@ -70,14 +70,16 @@ The only room he leaves for being wrong is if a new technological advance meanin
 Or imagine if the world was slightly different, and airplanes could be only be launched and flown at above 5000 feet. This would meaningfully change the strategic landscape.
 
 A related subproblem is that he treats culture as being caused fairly mechanistically by geographic factors -- for example, the US river system tied our culture together, our available land made our culture independent and entrepreneurial, etc. There's a lot to this but I think it's too simple.
+
 > Cheap riverine transport grants loads of personal exposure to the concerns of others in the system, helping to ensure that everyone on the waterway network sees themselves as all in the same boat (often literally). That constant interaction helps a country solidify its identity and political unity in a way that no other geographic feature can.
+
 Is this still relevant? How many people ride cargo boats down the Mississippi? Or is the claim that this identity, once founded, persists? I don't find his cultural analysis particularly compelling.
 
 In general my view on the world is usually more complex than this, but I do find his analysis compelling. 
 
 __Nuclear weapons__
 
-Zeihan mostly does not discuss nuclear weapons. A few times he describes countries (Sweden, South Korea) that could make a nuclear weapon "over a long weekend", but they factor very little into global strategic implications. For the most part, he discusses military aggression in fairly old-school terms: how would you cross this mountain pass and go over this desert, etc. I really didn't know what to think of this.
+Zeihan mostly does not discuss nuclear weapons. A few times he describes countries (Sweden, South Korea, Taiwan) that could make a nuclear weapon "over a long weekend", but they factor very little into global strategic implications. For the most part, he discusses military aggression in fairly old-school terms: how would you cross this mountain pass and go over this desert, etc. I really didn't know what to think of this.
 
 What does aggression in the post-nuclear world look like? 
 * For the US, the global naval power, we can land troops basically anywhere, fairly easily, though we are then hampered by geography in that place.
@@ -91,11 +93,14 @@ I recommend this book. It's full of interesting tidbits and provides another use
 
 ---
 
+### Assorted Delights
+
 The stability of the Bretton Woods system:
 > it is striking how little has changed in the international system in the decades since [1945]. At Bretton Woods the United States produced about one-quarter of global GDP, about the same proportion as it does in 2014. At Bretton Woods the United States was responsible for nearly half of global defense outlays, about the same proportion as in 2014. At Bretton Woods the American military controlled half of global naval tonnage, about the same proportion as it does in 2014. At Bretton Woods the United States was the only country that for the past eighty years had exited every decade with an economy larger than when it had entered, a record of the modern age that the Americans have since extended to 150 years. Courtesy of the devastation and disruption of World War II, the United States had been catapulted forward to constitute the world’s second oldest continuous government [behind the UK], a title it still holds in 2014. At the time of Bretton Woods, the Americans were the only country in the world that hadn’t had foreign boots on its soil in over a century, a record it continues to hold to the present day.
 
 Geography's effect on governance, reminding me of Seeing Like a State:
 > The pharaoh could—and often did—take a boat cruise down the river and visually inspect nearly all of his kingdom without setting foot on land.
+
 > The military and the bureaucracy could move about (and did), but the common man could not (and did not), firmly entrenching the concept of central control...Theirs was a geography destined not just to generate slavery, but slavery of the masses.
 
 I usually see this a benefit of German culture that we would do well to adopt, but Zeihan thinks of it as an adaptation only necessary given their problematic geography:
@@ -103,6 +108,9 @@ I usually see this a benefit of German culture that we would do well to adopt, b
 
 Port inequalities:
 > Chesapeake Bay alone boasts longer stretches of prime port property than the entire continental coast of Asia from Vladivostok to Karachi.
+
+> The Americans benefit from a geographic feature that exists in few other places on the planet, and nowhere else in such useful arrangements: barrier islands. Chains of these low, flat, long islands parallel the American mainland for over three-quarters of the Gulf and East Coasts.
+
 > Courtesy of those barrier islands, Texas alone has thirteen world-class deepwater ports, only half of which see significant use, and room for at least three times more. Why not expand port capacity? Because the United States has more port possibilities than it has ever needed, despite the fact that it has been the world’s largest producer, importer, and exporter of agricultural and manufactured goods for most of its history.
 
 This bit of US culture rings true:
