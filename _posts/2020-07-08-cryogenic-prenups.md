@@ -34,4 +34,6 @@ But a dedicated professional -- either a relationship coach or a lawyer -- could
 
 The closest thing I am aware of is [Rudi Hoffman](http://www.rudihoffman.com/cryonics.html), mentioned in [EY's cryonics post](https://www.lesswrong.com/posts/yKXKcyoBzWtECzXrE/you-only-live-twice), a financial planner who helps with the insurance policy logistics around paying for cryonics.
 
+There is also the so-called "hostile wife" phenomenon, about men who sign up for cryonics over their wives' objections, as discussed in [this piece](https://www.nytimes.com/2010/07/11/magazine/11cryonics-t.html). Which suggests there is definitely room for a cryonics-focused relationship therapist, though with a slightly different angle than I've been addressing.
+
 If you decide to do this, or are aware of someone doing it now, let me know!
