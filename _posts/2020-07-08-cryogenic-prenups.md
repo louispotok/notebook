@@ -32,4 +32,6 @@ Of course, people with enough openness to consider cryonics may simply be willin
 
 But a dedicated professional -- either a relationship coach or a lawyer -- could develop a fairly niche side practice, starting now, to facilitate these conversations.
 
+The closest thing I am aware of is [Rudi Hoffman](http://www.rudihoffman.com/cryonics.html), mentioned in [EY's cryonics post](https://www.lesswrong.com/posts/yKXKcyoBzWtECzXrE/you-only-live-twice), a financial planner who helps with the insurance policy logistics around paying for cryonics.
+
 If you decide to do this, or are aware of someone doing it now, let me know!
