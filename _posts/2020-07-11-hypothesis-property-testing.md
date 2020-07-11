@@ -114,4 +114,6 @@ I haven't dug into the internals too much, but as best I understand the core ide
 
 There's a lot more to say here, but one of the reasons I like Hypothesis so much is the extensive and well-written documentation. It's clearly all the reflection of a single mind, though there are several main developers. Overall the package provides an approachable but powerful interface to deep ideas, and leads to better software.
 
+If you are interested in talking more about Hypothesis, or want some help getting started, I'd love to chat.
+
 You may also be interested in [metamorphic testing](https://www.hillelwayne.com/post/metamorphic-testing/).
