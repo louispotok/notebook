@@ -1,5 +1,5 @@
 ---
-Title: Property Testing With Hypothesis
+title: Property Testing With Hypothesis
 ---
 
 One of my favorite tools for python development is the [Hypothesis](https://hypothesis.works/) package/testing framework. It brings "property testing" to python.
