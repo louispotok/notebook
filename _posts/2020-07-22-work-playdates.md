@@ -6,16 +6,22 @@ I remember, as a child, going to my friend Adam's house. At that time he loved L
 
 I want work playdates. I want to go to a friend's office for a day or two, sit in on their meetings, talk through their problems. Above all, I think this would be fun. I would learn something new about the world, they would deepen their understanding by teaching me. They would get an outside perspective on their work, some free consulting, and would have reinforced the idea that what they do is novel and interesting and worthy of their time. It would deepen our friendship -- shared projects bring people closer together.
 
+I think a lot about the tyranny of jobs, that there are so many interesting things to work on in the world and so little time to do them, and we are generally committed to one job at a time, in several-year chunks, until we die. We can fight this, broaden our experience, and do it in a fun way.
+
 The closest thing we have now that I can think of is the practice of "pair programming", wherein two programmers will sit next to each other and build something together. We normally conceive of intellectual work as a solitary activity, but pair programming demonstrates that [cognition is social](https://louispotok.com/cognition-is-social/). Bret Victor would point out that it's also embodied. This practice, done right, is incredibly fun and a wonderful learning experience.
 
-There are some reasonable objections. First, modern knowledge work is characterized by a lot of built-up context. It can take a new employee several months to actually be useful in a new role, so it's fair to question whether a visitor could actually be helpful. But as with anything new, of course it's worse than the alternative at first. The status quo is always supported by a variety of connections to existing practices and conditions, and so any change is going to be worse along many dimensions. The core idea -- I believe -- is valuable.
+There are some reasonable objections. First, modern knowledge work is characterized by a lot of built-up context. It can take a new employee several months to actually be useful in a new role, so it's fair to question whether a visitor could actually be helpful. A few counterpoints:
+1. The shared context and trust you already have with your friend goes a long way, especially if you've talked a lot about your jobs before.
+1. There's a lot of value in just trying to make something understood by outsiders, eg the "rubber duck" approach to debugging.
+1. The friend doesn't have to do a whole job, interface with any stakeholders. You can narrowly bound the things you work on together.
+1. You could imagine doing this with a given friend one afternoon a week for several months precisely to build that context.
 
 Intellectual property is also a concern, but I don't think it's a very interesting one. This also only is relevant to a small subset of jobs: I'm lucky to have had jobs like these, and rare in that most of my friends have jobs like these.
 
 I see these work playdates as part of a few broader campaigns, ways to make life better.
 1. Recognizing that work is part of our whole selves, and embracing it.
-2. Bringing a sense of play and fun to parts of our lives where it has been excluded.
-3. Cognition as a social, embodied activity.
+1. Bringing a sense of play and fun to parts of our lives where it has been excluded.
+1. Cognition as a social, embodied activity.
 
 Could you do this? Would you like to?
 
