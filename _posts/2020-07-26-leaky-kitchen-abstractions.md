@@ -1,6 +1,6 @@
 Consider your kitchen knife. 
 
-{% include image.html url="/img/chefs-knife.jpg" description="A chef's knife." %}
+{% include image.html url="img/chefs-knife.jpg" description="A chef's knife." %}
 
 Metallurgy is a complex subject, and you don't know how your knife is made. But looking at it, holding it, you can come to understand everything that matters about it. You deal with it as a thing-in-itself. This is not to say the knife is simple. There are many handholds, many ways to use it. You can cut with different motions, you can use the flat side to crush garlic, you can scrape up something you chopped, use the handle to muddle something, etc. But it resists abstraction.
 
@@ -8,7 +8,7 @@ Metallurgy is a complex subject, and you don't know how your knife is made. But 
 
 On the other hand, think about a basic drip coffee maker.
 
-{% include image.html url="/img/coffee-maker.jpg" description="A coffee maker." %}
+{% include image.html url="img/coffee-maker.jpg" description="A coffee maker." %}
 
 There is a single set of steps that you follow to use this. You add water, a filter, and coffee, and press the "on" button. You may understand how it functions, but you don't need to. There's not much you can vary, if you're following the instructions: the amount of water you add determines how much coffee comes out, and the coffee:water ratio determines the strength of the coffee. 
 
