@@ -1,3 +1,7 @@
+---
+categories: book-review
+---
+
 I just read Peter Zeihan's [The Accidental Superpower](https://amzn.to/31SM02P) on a friend's recommendation. It's a topic I don't usually think much about, but it has proven an extremely compelling angle from which to think about the world. 
 
 The book has three parts:
