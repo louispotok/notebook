@@ -15,3 +15,6 @@ On an international level, of course, we have citizenship. But when you are in-b
 I'd like to read more about this. [This paper]({{site.baseurl}}/assets/pdf/the-meaning-of-home-fox-2002.pdf) seems like a good starting place, but other suggestions accepted.
 
 This is also a clear example of James C. Scott's legibility argument. The state wants your relationship to place to be legible, so it forces you to live in a certain way.
+
+I've written about this [before](https://louispotok.com/where-are-you-from/), and [this beautiful essay](https://weiweihsu.com/2020-07-26/wheres-home) explores the same topic.
+* 
