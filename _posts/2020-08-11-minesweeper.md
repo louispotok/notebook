@@ -17,10 +17,10 @@ This is normally given as a programming challenge but we just talked through it.
 ## The solution path
 
 First, clarify the inputs and outputs.
-* The input is an $$m,n,x$$ triple. $$m$$ and $$n$$ represent the board dimensions, and $$x$$ is the number of mines in the board (and $$ x <  m \times n $$).
+* The inputs are $$(m,n,x)$$, where $$m$$ and $$n$$ represent the board dimensions, and $$x$$ is the number of mines in the board (and $$ x <=  m \times n $$).
 * The output is an $$ m \times n $$ array where each value in the array is either:
 	* $$ -1 $$, indicating the location of a mine, or
-	* An integer $$0<=i<=8$$ indicating how many mines it borders,
+	* An integer $$0<=i<=8$$ indicating a non-mine, where the value is how many mines it borders.
 
 Okay. Now we know what is needed, we can split up the solution into two sequential steps:
 1. Determine the mine locations
@@ -38,7 +38,9 @@ Here I pulled out a really useful trick, that everyone who solves these kinds of
 
 "Okay, I'm going to give a really naive approach first. You just keep calling `randint(0, N)`, and throw away any values you've seen before."
 
-Great, that solves the problem. Can we do better?
+Great, that solves the problem, but it's pretty bad for $$x$$ close to $$N$$. We didn't try to quantify how bad, but it's bad.
+
+Can we do better?
 
 #### Second attempt: offsets
 Well, once we pick the first value $$v_1$$, there are only $$ N - 1$$ options to choose from. So we should be able to call `randint(0, N-1)` the second time, giving us a candidate value $$v_2c$$. If $$v_2c<v_1$$, set $$v_2 = v_2c$$; otherwise, $$v_2 = v_2c + 1$$.
@@ -55,17 +57,19 @@ I couldn't think of it at first. I got a hint: think of every square as a candid
 
 That helped! Okay, what we're going to do is shuffle the integers $$0...N$$ and then take the first $$x$$! Elegance itself.
 
-How do you shuffle those, assuming you don't have a library function? Well, assign them each a random value, and then sort the list. This assumes you have access to a `random(0,1) -> float` function, or you can hack with `randint(0, L)`, or `randint(0, X) / randint(0, Y)` for suitably large `L, X, Y`.
+How do you shuffle those, assuming you don't have a library function? 
 
-However, sorting a list is $$O(n\log{}n)$$ time, and we want to get $$O(n)$$.
+My answer: assign them each a random value, and then sort the list. This assumes you have access to a `random(0,1) -> float` function, or you can hack with `randint(0, L)`, or `randint(0, X) / randint(0, Y)` for suitably large `L, X, Y`.
 
-I didn't get this. It turns out there's an algorithm, the [Fisher-Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle), for shuffling a list in linear time. This was more "did you know it or not. I didn't know it, oh well.
+However, sorting a list is $$O(n\log{}n)$$ time, and we want to get $$O(n)$$. How do you get to linear?
+
+I didn't get the answer. It turns out there's an algorithm, the [Fisher-Yates shuffle](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle), for shuffling a list in linear time. This was more "did you know it or not". I didn't know it, oh well.
 
 But anyway, now that we have our mine locations, we can move on.
 
 ### Assigning non-mine values
 This was pretty simple: 
-1. Build your $$m\times\n$$ array (eg as a list of lists) with mines in the appropriate location.
+1. Build your $$m \times n$$ array (eg as a list of lists) with mines in the appropriate location.
 1. For each value:
 	* if it's a non-mine, continue.
 	* If it's a mine, consider all the bordering squares. For each one that isn't a mine, increment it by 1.
@@ -79,7 +83,7 @@ I thought there was going to be the naive solution, and there would be a better 
 ## Testing
 Finally, JP asked: how would you test this function?
 
-Well, because there's randomness, you can't do a straightforward unit test (where you pass in a known input and check if the output is what you expected). And you wouldn't want to pass in a random input and then check if the output is correct, since you'd end up just re-implementing the same logic -- and then you wouldn't know which was wrong, the test logic or the logic under test!
+Well, because there's randomness, you can't do a straightforward unit test where you pass in a known input and check if the output is what you expected. And you wouldn't want to pass in a random input and then check if the output is correct, since you'd end up just re-implementing the same logic -- and then you wouldn't know which was wrong, the test logic or the logic under test!
 
 What you can do instead is freeze the randomness somehow, either by setting the seed outside the test, or dependency injection, or passing a random number generator in the pure-functional style, depending on the language.
 
@@ -91,7 +95,7 @@ You could also do something like [property-based testing]({{site.baseurl}}{% pos
 
 Now, final bonus question from JP: How would you check that it's uniform?
 
-Again, I thought my answer was pretty dumb, but he didn't have a better one: run it a bunch of times and look at the resulting distribution. I threw some fancy stats in there but simple comparisons or use of standard deviations would probably be fine. This would make your test suite take much longer, so you could run this offline and not make it part of the test suite. For double bonus points, I mentioned that in pytest (and likely other test frameworks) you can mark tests as long-running, so you can run the "full" test suite only occasionally and not during development.
+Again, I thought my answer was pretty dumb, but he didn't have a better one: run it a bunch of times and look at the resulting distribution. I threw some fancy stats in there but simple comparisons or use of standard deviations would probably be fine. This would make your test suite take much longer, so you could run this offline and not make it part of the test suite. For double bonus points, I mentioned that in pytest (and likely other test frameworks) you can mark tests as long-running, so you can run the "full" test suite only occasionally and not during a development loop.
 
 ## Overall
 
