@@ -14,6 +14,8 @@ I think a lot about the tyranny of jobs, that there are so many interesting thin
 
 The closest thing we have now that I can think of is the practice of "pair programming", wherein two programmers will sit next to each other and build something together. We normally conceive of intellectual work as a solitary activity, but pair programming demonstrates that [cognition is social](https://louispotok.com/cognition-is-social/). Bret Victor would point out that it's also embodied. This practice, done right, is incredibly fun and a wonderful learning experience.
 
+Similarly, I love when friends have a job that is working on open-source software, and I can actually go in and see their work! Like looking at their LinkedIn, but much much richer.
+
 ## Objections
 
 There are some reasonable objections. First, modern knowledge work is characterized by a lot of built-up context. It can take a new employee several months to actually be useful in a new role, so it's fair to question whether a visitor could actually be helpful. A few counterpoints:
