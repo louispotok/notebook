@@ -4,7 +4,7 @@
 
 Is this a philosophically valid account of causation? Not according to Helen Beebee!
 
-In her paper [Causing and Nothingness]({ % link {{site.baseurl}}/assets/pdf/Causing_Nothingness_2004_preprint.pdf }) she claims that the absence of an event cannot be a cause[^purpose]. This is a strong claim because, as in our example above, we refer to absences as causes in common language all the time. If we are to throw away such a major point of our common-sense understanding of causation, there had better be a good reason.
+In her paper [Causing and Nothingness]({{site.baseurl}}{% link assets/pdf/Causing_Nothingness_2004_preprint.pdf %}) she claims that the absence of an event cannot be a cause[^purpose]. This is a strong claim because, as in our example above, we refer to absences as causes in common language all the time. If we are to throw away such a major point of our common-sense understanding of causation, there had better be a good reason.
 
 [^purpose]: Actually her goal in this paper is a bit different: "The central claim of this paper is that, if our aim is to do as much justice as possible to common sense intuitions about causation by absence, then it doesn’t much matter whether we uphold relationism or non-relationism." But for our purposes, which is to explore the ideas rather than jump into an existing philosophical debate, this is close enough.
 
@@ -39,4 +39,4 @@ This is all a fully deterministic universe. How does it change if we think that 
 
 She draws a sharp line between this world and nearby ones, saying that "causal statements" are only true about this world. But this leaves open a theory of what "nearby worlds" actually are, and how they are connected to this one. Why is describing a nearby world relevant to us, who live in this one? What purpose does that serve? Is it possible to make a statement with a high level of rigor about these nearby worlds? 
 
-I learned about this paper on [this episode](https://journalentries.fireside.fm/beebee) of the excellent Journal Entries podcast which I've recommended previously [here]({ % link _posts/2020-07-02-bad-friends.md }) and [here](https://twitter.com/louispotok/status/1285584567118622722). The episode page has links to further reading as well: I want to explore these ideas more.
+I learned about this paper on [this episode](https://journalentries.fireside.fm/beebee) of the excellent Journal Entries podcast which I've recommended previously [here]({{site.baseurl}}{% post_url 2020-07-02-bad-friends %}) and [here](https://twitter.com/louispotok/status/1285584567118622722). The episode page has links to further reading as well: I want to explore these ideas more.

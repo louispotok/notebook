@@ -2,7 +2,7 @@
 title: Write Long?
 ---
 
-Last night I was reading Gavin Leech's [site](gleech.org). In particular I was struck by his page [Blogging is dead, long live sites](https://www.gleech.org/sites).
+Last night I was reading Gavin Leech's [site](https://www.gleech.org). In particular I was struck by his page [Blogging is dead, long live sites](https://www.gleech.org/sites).
 
 He points out that we use the word "blog" for two very different kinds of objects, which he calls "blogs" and "sites":
 

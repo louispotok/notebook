@@ -1,6 +1,6 @@
 > Anyone can be faithful to an employer; millions are, daily, constantly; it is one of the dullest and most vulgar of loyalties.
 > 
-> -- Rex Stout, [The League of Frightened Men](https://amzn.to/3dmHVpK).
+> -- Rex Stout, [The League of Frightened Men](https://amzn.to/2XNSxJi).
 
 In [Sapiens](https://amzn.to/3etvTw9), Yuval Harari develops a theory that human civilization's key innovation is our facility for shared fictions. We can agree that "France" exists, can use it as the subject of a sentence, even though the physical world has no such thing as France [^grind]. But caution is required.
 

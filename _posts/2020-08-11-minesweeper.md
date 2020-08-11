@@ -6,7 +6,7 @@ I really like puzzles. One great source of puzzles is interview questions for kn
 
 There are some that rely on knowledge I don't have: I have no formal training in CS, and there are concepts (especially "closer to the metal") that elude me. But when I hang out with engineers I like talking through their interview problems.
 
-I heard a good one recently from [JP](janpaulposma.nl/), I'll share the problem and how it went.
+I heard a good one recently from [JP](http://www.janpaulposma.nl/), I'll share the problem and how it went.
 
 ## The problem
 

@@ -6,7 +6,7 @@ I react with scorn when I see Malcolm Gladwell on someone's bookshelf, or when h
 
 This is not totally fair: I too was a Gladwellian, in the dawn of the world (high school) before I came to a man's understanding of social science and its limitations.
 
-My scorn, then, comes from a shame in having been so duped, in having believed in the wrong thing, the fear that I haven't fully [purged]({ % link _posts/2020-08-04-replication-manifesto.md %}) his wrongness from my mind.
+My scorn, then, comes from a shame in having been so duped, in having believed in the wrong thing, the fear that I haven't fully [purged]({{site.baseurl}}{% post_url 2020-08-04-replication-manifesto %}) his wrongness from my mind.
 
 But, when pressed, I will admit that he has a place in this ecosystem of ours, even if I wish he did it better. 
 
