@@ -30,4 +30,7 @@ end
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 # https://www.supertechcrew.com/jekyll-check-for-broken-links/
+# and https://github.com/jekyll/jekyll/issues/4122
+# bundle exec jekyll build -d _site/notebook
+# bundle exec htmlproofer ./_site
 gem "html-proofer"
