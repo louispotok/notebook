@@ -1,10 +1,10 @@
-Sometimes people keep giving you the same advice.
+Sometimes when you ask for help, people keep giving you the same advice.
 
-"You should quit your job."
+> "You should quit your job."
 
-"Why don't you move?"
+> "Why don't you move?"
 
-"Write more unit tests."
+> "Write more unit tests."
 
 Whatever the case may be.
 
