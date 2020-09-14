@@ -1,6 +1,6 @@
 How does knowledge progress? What is our model for how different thinkers relate to each others work?
 
-<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">In short I guess what i want is for science to be more like the talmud.</p>&mdash; small needs infinite desires (@louispotok) <a href="https://twitter.com/louispotok/status/1178065688503570432?ref_src=twsrc%5Etfw">September 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <Paste>
+<blockquote class="twitter-tweet" data-conversation="none" data-dnt="true"><p lang="en" dir="ltr">In short I guess what i want is for science to be more like the talmud.</p>&mdash; small needs infinite desires (@louispotok) <a href="https://twitter.com/louispotok/status/1178065688503570432?ref_src=twsrc%5Etfw">September 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## The Paper DAG
 
