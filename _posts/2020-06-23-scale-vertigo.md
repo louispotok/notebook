@@ -8,4 +8,6 @@ The artist [Robin Sloan](https://robinsloan.com) is in my personal canon[^canon]
 
 In the physical world, the signs of other people are more obvious, harder to fake. It's an important part of the experience for many things. But on the internet, no one knows how many dogs there are.
 
+Update 2020/09/15: I just came across a post by, oddly enough, the same Robin Sloan, making a [similar point](https://www.robinsloan.com/notes/orthographic/).
+
 [^canon]: I intend to make a page exploring this idea and listing the members out, at some point.
