@@ -48,7 +48,7 @@ Whether their solution actually worked wasn't the key selection criteria, but I 
 
 Or, "I wish that I knew what I know now, when I was younger" ([song link](https://www.youtube.com/watch?v=LhjHBV20ZV4)).
 
-Early in my career, I was designing the first "production" version of TrueAccord's outreach engine. The system would have repeated interactions with our customers, and it would have to decide when to initiate outreach and what strategies to use from our "library". At its core, this looked like a bandit problem, but there were a bunch of complications around domain-specific rules and heuristics, technical limitations, as well as the fact that new strategies were constantly becoming available. We ended up having to make a bunch of informed guesses, and tweaking when we could actually look at the data, but I often with that I had just run some simulations to better understand the dynamics.
+Early in my career, I was designing the first "production" version of TrueAccord's outreach engine. The system would have repeated interactions with our customers, and it would have to decide when to initiate outreach and what strategies to use from our "library". At its core, this looked like a bandit problem, but there were a bunch of complications around domain-specific rules and heuristics, technical limitations, as well as the fact that new strategies were constantly becoming available. We ended up having to make a bunch of informed guesses, and tweaking when we could actually look at the data, but I often wish that I had just run some simulations to better understand the dynamics.
 
 ## Related Ideas
 
