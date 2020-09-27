@@ -4,7 +4,7 @@ A few years pass between Seasons 3 and 4, and when Season 4 opens we learn that 
 
 Eventually he turns this into something more, but I think the idea here is undervalued. We come at the world with so many preconceptions, and it takes real work to just see what's there. Gwern develops the idea of [seeing through](https://www.gwern.net/Turing-complete#on-seeing-through-and-unseeing) levels of abstraction, which is closely related, but he's mainly talking about trying to achieve some goal in the context of an existing system. What I'm exploring here is more about gaining knowledge. The advice, then, is to begin by putting down what you see in the simplest possible terms and resist the temptation to categorize and theory-build until later. 
 
-This is a continual exertion. we love patterns because they allow us to *think less*, and [we hate thinking](https://twitter.com/louispotok/status/1065644791038234625) because it's so metabolically costly.
+This is a continual exertion. We love patterns because they allow us to *think less*, and [we hate thinking](https://twitter.com/louispotok/status/1065644791038234625) because it's so metabolically costly.
 
 Of course, at every level, from the neural to the organizational, there is a constant back and forth between theory and data: maybe this is just an exhortation to stay in "data" longer than seems reasonable. Once you go to "theory" it's hard to come back.
 
@@ -12,3 +12,6 @@ Of course, at every level, from the neural to the organizational, there is a con
 
 Edit Log:
 * 2020/06/22: fixed a typo. Also remembered that I own but haven't read Umberto Eco's [Infinity of Lists](https://amzn.to/3hT86b1), described [here](http://www.openculture.com/2018/09/umberto-eco-explains-why-we-make-lists.html), which explores the same idea.
+
+* 2020/09/27: A related quote from Paul Halmos, which I found on [this blog](https://qchu.wordpress.com/)):
+> "A good stock of examples, as large as possible, is indispensable for a thorough understanding of any concept, and when I want to learn something new, I make it my first job to build one."
