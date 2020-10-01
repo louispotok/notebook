@@ -17,4 +17,9 @@ I'd like to read more about this. [This paper]({{site.baseurl}}/assets/pdf/the-m
 This is also a clear example of James C. Scott's legibility argument. The state wants your relationship to place to be legible, so it forces you to live in a certain way.
 
 I've written about this [before](https://louispotok.com/where-are-you-from/), and [this beautiful essay](https://weiweihsu.com/2020-07-26/wheres-home) explores the same topic.
-* 
+
+--- 
+Update 2020/10/01:
+Some links to look at:
+* https://journals.openedition.org/histoiremesure/3942?lang=en
+* https://www.sciencedirect.com/science/article/abs/pii/S0305748807000709?via%3Dihub
