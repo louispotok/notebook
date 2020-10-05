@@ -1,4 +1,4 @@
-[Yesterday]({{site.baseurl}}{% _posts/2020-10-04-programming.md %}) I talked about how much I like programming, and how tempting it is as a job.
+[Yesterday]({{site.baseurl}}{% link _posts/2020-10-04-programming.md %}) I talked about how much I like programming, and how tempting it is as a job.
 
 After a conversation with [Sandy](https://twitter.com/s_ryz), I realized there's a bit more nuance to explore.
 
