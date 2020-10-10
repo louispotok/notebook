@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+header: true
 ---
 
 A basic daily notebook, inspired by [David MacIver's practice]({{site.baseurl}}{% post_url 2020-06-15-first %}).
