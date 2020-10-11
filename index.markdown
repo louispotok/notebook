@@ -5,11 +5,3 @@
 layout: home
 title: ""
 ---
-
-{% for page in site.pages %}
-  {%- if page.visible == true -%}
-   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
- {%- endif -%}
-{% endfor %}
-
-
