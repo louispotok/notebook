@@ -32,6 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Don't want to break any links yet
+# this still puts "/pages/" in the path - gleech hardcodes them all!
+# permalink: /:title
+
+
 defaults:
   - scope:
           path: "assets/pdf"
