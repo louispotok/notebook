@@ -1,6 +1,6 @@
 New feature on the blog: every post shows its revision history.
 
-![Revision history]({{site.baseurl}}{% link assets/img/revision-history.png %})
+{% include image.html url="img/revision-history.png" alt="Example of revision history" %}
 
 The code is taken from [this post](https://ryanjduffy.github.io/blog/2016/01/08/including-git-history-in-a-jekyll-post.html) by Ryan Duffy -- thanks Ryan!
 
