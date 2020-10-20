@@ -1,4 +1,4 @@
-This is a follow up to [Propane vs Electric Heaters]({{site.baseurl}}{% link _posts/2020-10-14-heaters.md}).
+This is a follow up to [Propane vs Electric Heaters]({{site.baseurl}}{% link _posts/2020-10-14-heaters.md %}).
 
 I spent more time looking into anthropogenic waste heat and its relationship to climate change the other day. I figured some of it out, but am still a bit confused on the fundamentals and could only find some older sources.
 
