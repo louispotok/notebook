@@ -1,3 +1,7 @@
+What is needed here? more concrete examples?
+
+---
+
 I see many well-intentioned people pick up noble causes and then completely fail to make the smallest impact. Usually, they say something like "we're trying to raise awareness of this important cause".
 
 To me this is usually indicates that they have a pseudo-mystical belief system, or have failed to think through the problem in any depth.
