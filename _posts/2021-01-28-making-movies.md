@@ -17,3 +17,8 @@ I also loved seeing the call sheets and his detailed breakdowns of them.
 {% include image.html url="img/call-sheet-2.jpg" description="Call sheet for Close to Eden, Side 2" %}
 
 Movies are the most complicated, multi-authored works of art our civilization produces. Beyond the vision, there is a great deal of craft and an obsessive focus over months, with limited room for mistakes. It's not glamorous, but we are left with the sense that it is work worth doing well.
+
+This is one of the great management books I've ever read. A director is the manager of a small company, assembled hastily to operate over a short time period[^movie-software]. He must take all these experienced professionals, each with their own goals, and align them behind his own vision. The highest compliment you can pay on the set, he claims, is to say "We're all making the same movie". In other words, we're all working towards the same goals.
+
+[^movie-software]: What would it look like if we built software on the film model? Assemble a team for a fixed time period, sprint to delivery.
+
