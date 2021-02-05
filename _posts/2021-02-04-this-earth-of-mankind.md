@@ -1,8 +1,13 @@
 ---
 categories: book-review
+isbn: 9780140256352
 ---
 
-My review on [Bookwyrm](bookwyrm.social/):
+
+Review of This Earth of Mankind by Pramoedya Ananta Toer.
+
+
+My review on [Bookwyrm](https://www.bookwyrm.social/):
 <blockquote class="quoteback" darkmode="" data-title="Status%20by%20dorsalfin%40bookwyrm.social%20%7C%20BookWyrm" data-author="" cite="https://bookwyrm.social/user/dorsalfin/review/14991">
 
 <p>Toer was an Indonesian intellectual imprisoned by the Dutch during the struggle for independence in the 1940s, after which he set out to write about the birth of Indonesian nationalism. He began a decades-long research effort, but after the 1965 coup he was imprisoned on the island of Buru for suspected communist sympathies and all his work destroyed. He composed his greatest work, the "Buru Quartet" orally while imprisoned, and then published it later. The works were seen as subversive, and banned in Indonesia from their publishing in the early 80s until 2000.</p>
