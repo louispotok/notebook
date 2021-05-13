@@ -8,3 +8,5 @@ There is so much you can do! A few ideas follow.
 * What is the "social function" of each story/opinion? What are we trying to convey as subtext?
 
 Probably there are many academic fields with their own interests and methodologies that have done things like this, but it would be so fun, and interesting, to do it yourself as a fresh start.
+
+Edit: I have been pointed to the field of "conversation analysis" and [this paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/symb.486) in particular by the wonderful [@literalbanana](https://twitter.com/literalbanana).
